@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://griffinclark10.github.io/griffinclark10/",
+  "homepage": "https://griffinclark10.github.io/griffinclark10/projects",
   "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
