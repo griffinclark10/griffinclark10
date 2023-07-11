@@ -34,7 +34,7 @@ const useTypewriter = (text, delay, initialDelay) => {
 
 const Experience = () => {
     const list11 = "Technical lead for a small real estate investement SaaS Startup, independently rewriting the back end of a website using PHP and updating the front-end structure using Laravel, HTML, CSS, AJAX, and jQuery.";
-    const list12 = "Developed a Python scraper that obtains and stores 10,000+ datapoints per day in an AWS RDS accessed using SQL."
+    const list12 = "Developed a Python scraper that obtains and stores 10,000+ datapoints per day in an AWS RDS accessed using SQL and cached with Redis."
     const list13 = "Utilized agile development techniques to effectively manage and coordinate multiple streams of work within the teams, ensuring timely and consistent progress towards project goals."
     
     const list21 = "Oversaw the technical and asset acquisition for a small Startup, including working with GitHub, AWS RDS, Stripe, Namecheap, and Heroku.";
