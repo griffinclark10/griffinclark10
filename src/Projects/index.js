@@ -67,7 +67,7 @@ const Projects = () => {
                             <br />
                             
                             <h2>Cooperative Perception for AVs</h2>
-                            <h3>Research Student</h3>
+                            <h3>AI Research Student</h3>
                             <div className='project-btn-text'>
                             <h2 className='icons'><FontAwesomeIcon icon={faPython} color={'#4B8BBE'} /> &ensp; <FontAwesomeIcon icon={faUbuntu} color={'#E95420'} /> &ensp;  <FontAwesomeIcon icon={faLinux} color={'white'} /> &ensp;  </h2>
                                 <ProjectButton href={thesisPdf} icon={faFilePdf} color="blue" />
