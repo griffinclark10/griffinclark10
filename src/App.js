@@ -12,10 +12,10 @@ function App() {
     // <BrowserRouter>
     <Router>
       <Routes>
-        <Route path="/" element={<Billboard page={<Home />} />} />  
-        <Route path="about-me" element={<Billboard page={<AboutMe />} />} />  
-        <Route path="experience" element={<Billboard page={<Experience />} />} /> 
-        <Route path="projects" element={<Billboard page={<Projects />} />} />
+        <Route path="/griffinclark10" element={<Billboard page={<Home />} />} />  
+        <Route path="/griffinclark10/about-me" element={<Billboard page={<AboutMe />} />} />  
+        <Route path="/griffinclark10/experience" element={<Billboard page={<Experience />} />} /> 
+        <Route path="/griffinclark10/projects" element={<Billboard page={<Projects />} />} />
       </Routes>
     </Router>
       
