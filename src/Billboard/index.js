@@ -30,7 +30,7 @@ const Billboard = ({page}) => {
             <div className="bottom">
                 <div className='column'>
                     <ul>
-                        <li><LinkButton href='/griffinclark10' icon={ faHouse } buttonId={1} onMouseEnter={handleButtonHover}/></li>
+                        <li><LinkButton href='my-portfolio-new/' icon={ faHouse } buttonId={1} onMouseEnter={handleButtonHover}/></li>
                         <li><LinkButton href='https://github.com/griffinclark10' icon={ faGithub } buttonId={2} onMouseEnter={handleButtonHover}/></li>
                         <li><LinkButton href='https://www.linkedin.com/in/griffin-clark-a02513146/' icon={ faLinkedin } buttonId={3} onMouseEnter={handleButtonHover}/></li>
                         <li><LinkButton href={resume} icon={ faFilePdf } buttonId={4} onMouseEnter={handleButtonHover} /></li>
